@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+    <string name="app_name">Basic Camera</string>
+    <string name="intro_message">
+        <![CDATA[
+        
+            
+            This is basic Camera app that takes pictures with a filter and stores them in
+            your device.
+            
+        
+        ]]>
+    </string>
+</resources>
